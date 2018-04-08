@@ -21,7 +21,7 @@ spring:
   datasource:
     url: "jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf8&autoReconnect=true"
     username: "root"
-    password: "root1"
+    password: "root"
 
 
 ---
@@ -31,4 +31,4 @@ spring:
   datasource:
     url: "jdbc:mysql://localhost:3306/test2=true&characterEncoding=utf8&autoReconnect=true"
     username: "root"
-    password: "root1"
+    password: "root"
